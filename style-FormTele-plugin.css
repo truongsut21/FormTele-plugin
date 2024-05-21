@@ -3,3 +3,7 @@
     bottom: 1rem;
     right: 1rem;
 }
+
+#name_modal,#title_modal,#category_modal{
+    height: 3rem !important;
+}
